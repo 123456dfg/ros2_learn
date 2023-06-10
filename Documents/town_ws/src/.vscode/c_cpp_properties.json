@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/foxy/include/**",
+                "/home/dfg/Documents/town_ws/src/village_wang/include/**",
+                "/usr/include/**",
+                "/home/dfg/Documents/town_ws/**",
+                "/home/dfg/Documents/town_ws/build/village_interfaces/rosidl_generator_cpp"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}
